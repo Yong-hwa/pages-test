@@ -1,4 +1,4 @@
-# deploy-test
+# pages-test
 
 ## Project setup
 ```
